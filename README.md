@@ -76,10 +76,9 @@
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C04L&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C04L&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=C04L&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=C04L&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=C04L&layout=compact&langs_count=10&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=C04L&layout=compact&langs_count=10&hide_values=true&theme=radical)
 
 ---
 
